@@ -1,0 +1,16 @@
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.project-tags span {
+  background-color: #bcbcbc;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  color: #222;
+  font-weight: 500;
+}

@@ -133,7 +133,7 @@ function Projects({ isDarkMode }) {
     },
     {
       title: "Gesture-Controlled Curtains",
-      description: "A hands-free home automation build: wave to open, pause, or close the curtains, no touch needed. Ultrasonic sensors feed an Arduino.",
+      description: "A hands-free home automation build: wave to open or close the curtains, no touch needed. Ultrasonic sensors feed an Arduino.",
       tech: ['Arduino', 'C++', 'IoT']
     },
     {

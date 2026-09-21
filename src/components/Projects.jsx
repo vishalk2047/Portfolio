@@ -303,7 +303,7 @@ function Projects({ isDarkMode }) {
         
         {/* Area of Expertise Section */}
         <div style={{ textAlign: 'center', marginBottom: isMobile ? '5.5rem' : '6rem', width: '100%' }}>
-          <h2 style={sectionHeaderStyle}>Area of Expertise</h2>
+          <h2 style={sectionHeaderStyle}>What I Work With</h2>
           
           <div style={{
             display: 'grid',
